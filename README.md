@@ -1,4 +1,4 @@
-# Instacart Market Basket Analysis
+# Instacart-Purchase-Pattern-Analysis
 
 ## Introduction
 
